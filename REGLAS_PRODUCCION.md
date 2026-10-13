@@ -58,9 +58,28 @@ Cualquier chat nuevo debe leer este archivo antes de armar una lista.
 5. **Dormidos**: la reserva se reparte entre los dormidos elegidos, con tallas parejas.
 6. **PDF**: un resumen por diseño, y luego una tabla de color × talla para cada diseño con casillas para marcar.
 
-## Pendiente de confirmar
+## Tallas del proveedor vs. tallas de la tienda
 
-- [ ] ¿El mínimo de 4 es por **diseño** en total o por **diseño-color**?
-- [ ] ¿Qué parte de cada producción va a los dormidos? (por ejemplo, un 10–15 % o unas 10 unidades por dormido)
-- [ ] ¿Quién elige los dormidos: tú en cada producción, o yo te propongo según las ventas?
-- [ ] ¿Las tallas deben quedar exactamente iguales, o M puede llevar un poco más?
+Los pedidos al proveedor vienen en otras tallas. Equivalencia:
+
+| Proveedor | Tienda |
+|---|---|
+| M mujer | S |
+| XL mujer | M |
+| S hombre | L |
+
+Las listas que vienen directamente en S/M/L ya están en tallas de la tienda.
+Los colores que no existen en Loyverse (por ejemplo, gris) se dejan fuera.
+
+## Criterios por defecto (usados el 13/10/2026; no confirmados todavía)
+
+- Mínimo 4 unidades por **diseño** en total, no por diseño-color.
+- Alrededor del 12 % de la producción (unas 14 unidades) para **2 dormidos**. Los propongo yo según las ventas, salvo que se indiquen otros.
+- Tallas **iguales**, sin darle más a M.
+- Se cubren unas 2 semanas de venta por talla en lo urgente.
+- GUESS CUADRO: 4 unidades fijas, en beis y negro.
+
+## Historial de producciones
+
+- 13/10/2026: 123 camisetas. Dormidos: COACH BORDADO y MICKEY BURBERRY (7 cada uno).
+- Producción anterior (alrededor del 11/10): 10 BALENCIAGA y otro diseño dormido.
