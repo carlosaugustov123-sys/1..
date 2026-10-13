@@ -36,6 +36,14 @@ Cualquier chat nuevo debe leer este archivo antes de armar una lista.
 - Esto se hace **sin descuidar lo que realmente se necesita**: primero se cubre lo urgente y lo que sobra va a los dormidos.
 - Los dormidos también respetan las reglas 2 (tallas parejas) y 3 (mínimo 4).
 
+#### Caso aparte: GUESS CUADRO
+
+- Antes, GUESS CUADRO agrupaba también a GUESS MACHETE y GUESS PANA. Esos dos se vendían tanto que ahora tienen su propio artículo.
+- Por eso, las ventas viejas de GUESS CUADRO pueden verse más altas de lo que hoy es en realidad. Para calcular su demanda solo se usan datos de después de la separación.
+- GUESS CUADRO **sí se produce**, pero **sin sobredimensionarlo**: cantidades moderadas, nunca como un dormido de sobreproducción.
+- Se hace **mayoritariamente en beis y negro**. Otros colores solo de forma ocasional.
+- Respeta el mínimo de 4 (regla 3) y las tallas parejas (regla 2).
+
 ### 5. Combinaciones permitidas
 
 - Solo se proponen diseño-color que ya han existido en la tienda (producidos, vendidos o en stock).
